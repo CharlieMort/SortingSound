@@ -42,6 +42,7 @@ function Swap(arr, idx1, idx2) {
 
 let mIndex = 0;
 let mLength = 2;
+let mArr = [];--
 
 function MergeSort() {
 
